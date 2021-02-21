@@ -57,5 +57,8 @@ section.right_blocks {
     display: inline-block;
 }
 
-footer {
+.popular_links {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
 }
